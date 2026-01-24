@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.out
+.External Libraries
+# IntelliJ IDEA
+.idea/
+out/
+
+# VS Code / Cursor
+.cursor/
+
+# Java
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
